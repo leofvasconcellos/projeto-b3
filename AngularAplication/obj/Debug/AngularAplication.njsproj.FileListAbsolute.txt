@@ -1,0 +1,3 @@
+C:\Users\usuario-27516\Documents\Projeto\projeto-b3\AngularAplication\obj\Debug\AngularAplication.njsproj.AssemblyReference.cache
+C:\Users\usuario-27516\Documents\Projeto\projeto-b3\AngularAplication\obj\Debug\AngularAplication.njsproj.CoreCompileInputs.cache
+C:\Users\usuario-27516\Documents\Projeto\projeto-b3\AngularAplication\bin\Microsoft.NodejsTools.WebRole.dll
