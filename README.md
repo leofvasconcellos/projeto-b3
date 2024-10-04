@@ -9,7 +9,7 @@ Este README fornece instruções sobre como executar cada um desses projetos.
 
 - [.NET 6.0 ou superior](https://dotnet.microsoft.com/download)
 - [Visual Studio 2022](https://visualstudio.microsoft.com/) (opcional, mas recomendado pois foi criado utilizando esta versão)
-- [Visual Studio Code] (https://code.visualstudio.com/download) (utilizei para criar a aplicação em Angular)
+- [Visual Studio Code](https://code.visualstudio.com/download) (utilizei para criar a aplicação em Angular)
 
 ### Executando a API
 
